@@ -5,8 +5,8 @@ title: Team Mayes and Blue # used for the html title of every page
 desc: >
   Heather Mayes's computational Chemical Engineering lab at the University of Michigan
 
-url: http://http://cheresearch.engin.umich.edu     # put your website hosting url here
-baseurl: ''                 # the subpath of your site, e.g. /blog
+url: http://cheresearch.engin.umich.edu     # put your website hosting url here
+baseurl: '/mayes'                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings

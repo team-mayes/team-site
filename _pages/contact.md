@@ -5,3 +5,5 @@ permalink: /contact/
 ---
 
 # Contact!
+
+A link to [home](../).
