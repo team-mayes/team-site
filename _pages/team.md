@@ -17,7 +17,7 @@ engineering from Northwestern University in the summer of 2015. Dr. Linda J. Bro
 at Northwestern advised her and Dr. Gregg T. Beckham of the National Renewable Energy 
 Laboratory co-advised her as she employed computational chemical engineering to uncover 
 the molecular mechanisms that underlie thermal and enzymatic cellulose decomposition 
-toward advancing technologies that will produce sustainable chemical and fuels. 
+toward advancing technologies that will produce sustainable chemicals and fuels. 
 She was a Department of Energy Computational Science Graduate Fellow and earned 
 the AIChE Computational Molecular Science and Engineering Forum Graduate Student 
 Award and ACS Chemical Computing Group Research Excellence Award. She is currently a 
@@ -30,7 +30,7 @@ she will elucidate protein-sugar interactions for applications in renewable ener
 ## Stephen Vicchio
 
 Stephen earned his B.S. in Chemical Engineering from the University of Maryland, Baltimore County (UMBC), 
-where he alos conducted research at UMBC on hippocampal neuron cell signaling. He worked with
+where he also conducted research at UMBC on hippocampal neuron cell signaling. He worked with
 Shenkar Garde's group at the Rensselaer Polytechnic Institute, completing an REU Summer Research Program 
 simulating Janus particles at the water vapor-liquid interface. He additionally 
 completed a Leadership Alliance Summer Undergraduate Research Fellowship at 
