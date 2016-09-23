@@ -29,9 +29,18 @@ she will elucidate protein-sugar interactions for applications in renewable ener
 
 ## Stephen Vicchio
 
+
+
+Stephen earned his B.S. in Chemical Engineering from the University of Maryland, Baltimore County (UMBC) in 
+Spring 2015, and joined the PhD program in Chemical Engineering at the University of Michigan in Fall 2015.
+As an undergraduate at UMBC, Stephen 
+
+
+
 Stephen earned his B.S. in Chemical Engineering from the University of Maryland, Baltimore County (UMBC), 
 where he also conducted research at UMBC on hippocampal neuron cell signaling. He worked with
 Shenkar Garde's group at the Rensselaer Polytechnic Institute, completing an REU Summer Research Program 
 simulating Janus particles at the water vapor-liquid interface. He additionally 
 completed a Leadership Alliance Summer Undergraduate Research Fellowship at 
 Yale University and a FREEDM Systems Center REU at North Carolina State University. 
+
