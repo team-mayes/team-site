@@ -14,7 +14,8 @@ She then worked for three years as a chemical engineering consultant on projects
 including new technology development, process safety, and meeting new EPA standards. 
 To deepen her knowledge, she returned to school and received her PhD in chemical 
 engineering from Northwestern University in the summer of 2015. Dr. Linda J. Broadbelt 
-at Northwestern advised her and Dr. Gregg T. Beckham of the National Renewable Energy 
+at Northwestern advised her and [Dr. Gregg T. Beckham](http://www.nrel.gov/bioenergy/bios/gregg-beckham.html) 
+of the National Renewable Energy 
 Laboratory co-advised her as she employed computational chemical engineering to uncover 
 the molecular mechanisms that underlie thermal and enzymatic cellulose decomposition 
 toward advancing technologies that will produce sustainable chemical and fuels. 
