@@ -31,8 +31,8 @@ she will elucidate protein-sugar interactions for applications in renewable ener
 
 Stephen earned his B.S. in Chemical Engineering from the University of 
 Maryland, Baltimore County (UMBC) in Spring 2015, and joined the PhD 
-program in Chemical Engineering at the University of Michigan in Fall 
-2015. As an undergraduate at UMBC, Stephen worked on a variety of 
+program in Chemical Engineering at the University of Michigan in Fall 2015.
+As an undergraduate at UMBC, Stephen worked on a variety of 
 research projects. His previous research experiences range from 
 improving anode materials for Lithium-Ion batteries (FREEDM Systems 
 Center REU at NC State University) to performing longevity studies for 
