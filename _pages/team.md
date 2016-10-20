@@ -31,10 +31,17 @@ she will elucidate protein-sugar interactions for applications in renewable ener
 
 ## Stephen Vicchio
 
-Stephen earned his B.S. in Chemical Engineering from the University of Maryland, Baltimore County (UMBC), 
-where he also conducted research at UMBC on hippocampal neuron cell signaling. He worked with
-[Dr. Shenkar Garde's group](http://cbe.rpi.edu/shekhar-garde) at the Rensselaer Polytechnic Institute, 
-completing an REU Summer Research Program 
-simulating Janus particles at the water vapor-liquid interface. He additionally 
-completed a Leadership Alliance Summer Undergraduate Research Fellowship at 
-Yale University and a FREEDM Systems Center REU at North Carolina State University. 
+Stephen earned his B.S. in Chemical Engineering from the University of 
+Maryland, Baltimore County (UMBC) in Spring 2015, and joined the PhD 
+program in Chemical Engineering at the University of Michigan in Fall 2015.
+His undergraduate research experiences include: improving anode materials for Lithium-Ion batteries 
+(during a [FREEDM Systems Center](https://www.freedm.ncsu.edu) REU at NC State University); 
+performing longevity studies for Zinc-Calcium-Magnesium bulk metallic glasses degradable implants 
+(part of a [Leadership Alliance SURF at Yale University](http://gsas.yale.edu/diversity/programs/summer-undergraduate-research-fellowship-surf)); and simulating Janus 
+particles patterned with varying hydrophobicity at a water vapor-liquid 
+interface (part of a [LSAMP REU at Rensselaer Polytechnic Institute](http://gradoffice.rpi.edu/update.do?catcenterkey=34)). As a member 
+of Team Mayes and Blue, Stephen’s research focuses on creating a glycan
+designer library elucidating trends on how specific glycosylation 
+motifs impact protein function. The new, fundamental knowledge 
+developed by Stephen’s work will better enable researchers to use glycosylation
+as a tool to customize protein function.
