@@ -11,6 +11,17 @@ layout: default
   and sugars interact in application from renewable materials to human 
   health.
   
-  Read more about our [research](research/), [publications](publications/), see our 
-  [team members](team/), or [contact us](contact/). 
+  Read more about our [research](research), [publications](publications), see our 
+  [team members](team), or [contact us](contact). 
+  
+# News
+
+## 2016 October
+
+The team welcomes three new members, [Alex Adams](team#xadams), [Tucker Burgin](team#tburgin), and [Emma Purcell](team#epurcell)!
+
+## 2016 August
+
+The team welcomes our first member, [Stephen Vicchio](team#svicchio)!
+  
 </div>
