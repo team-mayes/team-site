@@ -11,6 +11,13 @@ $ cd team-site
 $ jekyll serve
 ```
 
+To publish:
+
+```
+$ jekyll build
+```
+The created site will be in _site. It can be moved to the server via scp or FileZilla.
+
 # Thanks
 This site is based on the [Jackal](https://github.com/clenemt/jackal)
 Jekyll theme.  Thanks to [Clement Moron](http://clenemt.com/) for 

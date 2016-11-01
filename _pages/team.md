@@ -60,8 +60,12 @@ produced from recycled rubber tire waste.
 
 ## <a name="tburgin"></a> Tucker Burgin
 
-Tucker earned his BS and MS in [Chemical Engineering from Rochester University](http://www.che.rochester.edu), where he worked 
-with the [McGrath Lab](https://www.urmc.rochester.edu/labs/McGrath-Lab/) on on creating efficient membranes for miniaturized, continuous hemodialysis.
+<img align="left" src="../assets/img/tburgin.png" style="margin:10px 10px 0px 0px">
+Tucker earned his BS and MS in Biomedical Engineering (with a concentration in Chemical Engineering) through a combined degree 
+program at the [University of Rochester](https://enrollment.rochester.edu/professional/gear/). He conducted research with the 
+[Nanomembranes Research Group](http://nanomembranes.org/) and the [McGrath Lab](https://www.urmc.rochester.edu/labs/McGrath-Lab/), 
+and his MS thesis work centered on building models to support the application of ultra-thin silicon membranes to highly efficient, 
+wearable hemodialysis devices.
 
 ## <a name="epurcell"></a> Emma Purcell
 
