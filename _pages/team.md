@@ -55,7 +55,7 @@ Alex earned his BS in Chemical Engineering from the [University of Florida](http
 Corporation](https://www.harris.com/) on signal filtering through photonic communication links and at Honeywell on process 
 automation for nylon. He also participated in the [Scientific Undergraduate Laboratory Internship (SULI)](http://science.energy.gov/wdts/suli/) 
 program at [Oak Ridge National Lab](https://www.ornl.gov/) where he worked on high performance Li-ion battery anodes 
-produced from recycled rubber tire waste.
+produced from recycled rubber tire waste. Alex is co-advised by [Dr. Sharon Glotzer](http://glotzerlab.engin.umich.edu/home/).
 
 
 ## <a name="tburgin"></a> Tucker Burgin
@@ -74,4 +74,4 @@ Emma earned her BS in Chemical Engineering from the [University of California Sa
 She completed an REU through the Colorado Centre for Biofuels and Biorefining in [Matthew Posewitz’s lab](Matthew Posewitz) at the 
 Colorado School of Mines.  While in the Posewitz lab, she worked on the metabolic engineering of cyanobacteria for biofuels applications.  
 After finishing her BS, she traveled to New Zealand and worked at the University of Canterbury in [Renwick Dobson’s lab](http://www.bic.canterbury.ac.nz/people/investigator/dobson.shtml) 
-on the development and design of microfluidic chips for artificial lipid bilayer formation. 
+on the development and design of microfluidic chips for artificial lipid bilayer formation. Emma is co-advised by [Dr. Sunitha Nagrath](http://cheresearch.engin.umich.edu/nagrath/index.html).
