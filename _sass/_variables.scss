@@ -10,6 +10,7 @@ $gray-lightest:             #fafaf8;
 $maize:                     #ffcb05;
 $blue:                      #002d62;
 $lsa_orange:                #cc6600;
+$green:                     #3e6c1f;
 $light-blue:                lighten($blue, 45%);
 $dark-blue:                 darken($blue, 20%);
 
@@ -29,9 +30,9 @@ $body-bg:                   $gray-lightest;
 $body-color:                $gray-dark;
 
 // GLOBALS - LINKS ------------------
-$link-color:                $brand-color;
+$link-color:                $lsa_orange;
 $link-decoration:           none;
-$link-hover-color:          $dark-blue;
+$link-hover-color:          $green;
 $link-hover-decoration:     underline;
 
 // GLOBALS - SPACERS ------------------
