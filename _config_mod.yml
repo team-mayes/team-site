@@ -12,7 +12,7 @@ permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
 email: hbmayes@umich.edu
-author: Heather Mayes
+author: Team Mayes & Blue
 
 # Pagination settings
 paginate: 10                           # number of posts to show per page

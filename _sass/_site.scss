@@ -17,6 +17,7 @@
 .site-header {
   margin: $spacer4 0 $spacer1;
   @include clearfix();
+  background-color: $blue;
 }
 
 .site-logo {
@@ -40,11 +41,13 @@
   padding: 0 .25rem;
   margin-right: $spacer0;
   transition: background 0.1s ease-out;
+  font-size: 1.75rem;
+  font-weight: bolder;
 
   &:hover {
     text-decoration: none;
     color: $link-color;
-    background-color: $brand-light-color;
+    background-color: $maize;
   }
 
   &:focus,
@@ -67,7 +70,7 @@
   }
 
   .site-title {
-    margin-bottom: $spacer1;
+    margin-bottom: 0.0em;
   }
 
   .site-nav a {
@@ -77,29 +80,30 @@
 
 @include mq-up(md) {
   .site-logo {
-    margin-left: $spacer0;
-    width: 3.5rem;
-    height: 3.5rem;
+    margin-left: 0.1em;
+    width: 5.33rem;
+    height: 5.0rem;
   }
 
   .site-nav {
     float: right;
-    width: 80%;
-    margin-top: $spacer0;
+    width: 86%;
+    margin-top: 0.9rem;
     justify-content: space-around;
     font-size: 1.25rem;
 
     a {
       margin-right: 0;
       padding: .25rem $spacer0;
+      color: $maize;
     }
   }
 
   .site-title {
     float: left;
-    width: 20%;
+    width: 14%;
     text-align: inherit;
-    margin-bottom: $spacer0;
+    margin-bottom: 0.0em;
   }
 }
 

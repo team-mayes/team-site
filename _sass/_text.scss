@@ -6,7 +6,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: $spacer0;
   font-family: $font-heading;
   line-height: $lh-sm;
-  color: inherit;
+  color: $blue;
 }
 
 h1 { font-size: $fs-h1; }
@@ -49,14 +49,14 @@ small,
 }
 
 @include mq-up(md) {
-  .lead { font-size: 1.5rem; }
+  .lead { font-size: 1.2rem; }
 }
 
 // TEXT - CODE ------------------
 mark,
 .mark {
   padding: .2em;
-  background-color: $ligt-yellow;
+  background-color: $light-yellow;
 }
 
 code, kbd,
