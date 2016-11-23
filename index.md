@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="lead pretty-links">
+<div class="page-content">
   Welcome to the website for Team Mayes and Blue! We are a new group in 
   the [Chemical Engineering Department](http://www.engin.umich.edu/che) 
   at the [University of Michigan](https://www.umich.edu) (Go Blue!), 

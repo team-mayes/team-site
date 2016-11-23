@@ -9,31 +9,65 @@ h1, h2, h3, h4, h5, h6 {
   color: $blue;
 }
 
-h1 { font-size: $fs-h1; }
-h2 { font-size: $fs-h2; }
-h3 { font-size: $fs-h3; }
-h4 { font-size: $fs-h4; }
-h5 { font-size: $fs-h5; }
-h6 { font-size: $fs-h6; }
+h1 {
+  font-size: $fs-h1;
+}
+
+h2 {
+  font-size: $fs-h2;
+  color: $green;
+}
+
+h3 {
+  font-size: $fs-h3;
+}
+
+h4 {
+  font-size: $fs-h4;
+}
+
+h5 {
+  font-size: $fs-h5;
+}
+
+h6 {
+  font-size: $fs-h6;
+}
 
 @include mq-up(md) {
-  h1 { font-size: $fs-md-h1; }
-  h2 { font-size: $fs-md-h2; }
-  h3 { font-size: $fs-md-h3; }
-  h4 { font-size: $fs-md-h4; }
-  h5 { font-size: $fs-md-h5; }
-  h6 { font-size: $fs-md-h6; }
+  h1 {
+    font-size: $fs-md-h1;
+  }
+  h2 {
+    font-size: $fs-md-h2;
+  }
+  h3 {
+    font-size: $fs-md-h3;
+  }
+  h4 {
+    font-size: $fs-md-h4;
+  }
+  h5 {
+    font-size: $fs-md-h5;
+  }
+  h6 {
+    font-size: $fs-md-h6;
+  }
 }
 
 // TEXT - UTILS ------------------
 .lead {
   font-size: 1.25rem;
   line-height: 1.6;
-  p { margin-bottom: 1.5rem; }
+  p {
+    margin-bottom: 1.5rem;
+  }
 }
 
 .pretty-links {
-  a { @include make-link($link-color, $link-hover-color, $body-bg); }
+  a {
+    @include make-link($link-color, $link-hover-color, $body-bg);
+  }
 }
 
 hr {
@@ -49,7 +83,9 @@ small,
 }
 
 @include mq-up(md) {
-  .lead { font-size: 1.2rem; }
+  .lead {
+    font-size: 1.2rem;
+  }
 }
 
 // TEXT - CODE ------------------
@@ -93,7 +129,6 @@ blockquote {
   font-size: .85em;
   line-height: 1.6;
 }
-
 
 @include mq-up(md) {
   blockquote {
