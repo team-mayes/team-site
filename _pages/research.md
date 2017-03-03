@@ -63,5 +63,5 @@ computational method used in the the results found through simulations of key ph
 The group works towards understanding the processive mechanism of a mutant glycoside hydrolase enzyme through molecular 
 dynamics simulations and related computational techniques, in collaboration with structural biologists. Future work 
 will continue to uncovering the mechanisms of other mutant enzymes that catalyze entirely different reactions from 
-their wild-type counterparts. The ultimate research goal is to elucidate the molecular foundations underlying the b
-ehavioral changes imparted to enzymes by mutations in a generalizable way, to aid rational enzyme design.
+their wild-type counterparts. The ultimate research goal is to elucidate the molecular foundations underlying the 
+behavioral changes imparted to enzymes by mutations in a generalizable way, to aid rational enzyme design.
