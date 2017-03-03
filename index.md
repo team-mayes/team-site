@@ -6,7 +6,7 @@ layout: default
   Welcome to the website for Team Mayes and Blue! We are a new group in 
   the [Chemical Engineering Department](http://www.engin.umich.edu/che) 
   at the [University of Michigan](https://www.umich.edu) (Go Blue!), 
-  officially opening in January 2017. Our focus will be discovering 
+  officially opening in January 2017. We focus on discovering 
   fundamental structure-function relationships that govern how proteins 
   and sugars interact in application from renewable materials to human 
   health.
@@ -15,6 +15,11 @@ layout: default
   [team members](team), or [contact us](contact). 
   
 # News
+
+## 2017 January
+
+The team welcomes [Sam Schwartz](team#sschwartz)!
+
 
 ## 2016 October
 

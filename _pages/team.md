@@ -23,10 +23,10 @@ the molecular mechanisms that underlie thermal and enzymatic cellulose decomposi
 toward advancing technologies that will produce sustainable chemicals and fuels. 
 She was a Department of Energy Computational Science Graduate Fellow and earned 
 the AIChE Computational Molecular Science and Engineering Forum Graduate Student 
-Award and ACS Chemical Computing Group Research Excellence Award. She is currently a 
-postdoctoral scholar in the Voth Group at the University of Chicago, where she is 
-modeling proton transport in transmembrane proteins. At the University of Michigan, 
-she will elucidate protein-sugar interactions for applications in renewable energy and glycobiology.
+Award and ACS Chemical Computing Group Research Excellence Award. She deferred begining her position at the 
+University of Michigan to be a postdoctoral scholar in the Voth Group at the University of Chicago, where she 
+modeled proton transport in transmembrane proteins. At the University of Michigan, 
+she workrs to elucidate protein-sugar interactions for applications in renewable energy and glycobiology.
 
 # Graduate Students
 
@@ -39,8 +39,8 @@ program in Chemical Engineering at the University of Michigan in Fall 2015.
 His undergraduate research experiences include: improving anode materials for Lithium-Ion batteries 
 (during a [FREEDM Systems Center](https://www.freedm.ncsu.edu) REU at NC State University); 
 performing longevity studies for Zinc-Calcium-Magnesium bulk metallic glasses degradable implants 
-(part of a [Leadership Alliance SURF at Yale University](http://gsas.yale.edu/diversity/programs/summer-undergraduate-research-fellowship-surf)); and simulating Janus 
-particles patterned with varying hydrophobicity at a water vapor-liquid 
+(part of a [Leadership Alliance SURF at Yale University](http://gsas.yale.edu/diversity/programs/summer-undergraduate-research-fellowship-surf)); 
+and simulating Janus particles patterned with varying hydrophobicity at a water vapor-liquid 
 interface (part of a [LSAMP REU at Rensselaer Polytechnic Institute](http://gradoffice.rpi.edu/update.do?catcenterkey=34)). As a member 
 of Team Mayes and Blue, Stephen’s research focuses on creating a glycan
 designer library elucidating trends on how specific glycosylation 
@@ -73,5 +73,17 @@ wearable hemodialysis devices.
 Emma earned her BS in Chemical Engineering from the [University of California San Diego](http://nanoengineering.ucsd.edu).  
 She completed an REU through the Colorado Centre for Biofuels and Biorefining in [Matthew Posewitz’s lab](Matthew Posewitz) at the 
 Colorado School of Mines.  While in the Posewitz lab, she worked on the metabolic engineering of cyanobacteria for biofuels applications.  
-After finishing her BS, she traveled to New Zealand and worked at the University of Canterbury in [Renwick Dobson’s lab](http://www.bic.canterbury.ac.nz/people/investigator/dobson.shtml) 
-on the development and design of microfluidic chips for artificial lipid bilayer formation. Emma is co-advised by [Dr. Sunitha Nagrath](http://cheresearch.engin.umich.edu/nagrath/index.html).
+After finishing her BS, she traveled to New Zealand and worked at the University of Canterbury in 
+[Renwick Dobson’s lab](http://www.bic.canterbury.ac.nz/people/investigator/dobson.shtml) 
+on the development and design of microfluidic chips for artificial lipid bilayer formation. 
+Emma is co-advised by [Dr. Sunitha Nagrath](http://cheresearch.engin.umich.edu/nagrath/index.html).
+
+
+# Undergraduate Student
+
+## <a name="sschwartz"></a> Samantha Schawartz
+
+<img align="left" src="../assets/img/sschwartz.jpg" style="margin:10px 10px 0px 0px">
+Samantha is currently an undergraduate Junior, majoring in Chemical Engineering and minoring in Computer science. 
+She is originally from Fairfield, Connecticut and is currently working on modeling different ring opening 
+reactions of specific sugars conformations.
