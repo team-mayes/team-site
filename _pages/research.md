@@ -28,7 +28,7 @@ advance renewable chemicals and fuels as well as health.
 
 Currently, these interests fuel the following projects:
 
-# Computational Tools for Protein Design, Led by [Alex Adams](team#xadams) 
+# Computational Tools for Protein Design, Led by [Alex Adams](../team#xadams) 
 
 <img align="left" src="../assets/img/xyle.jpg" style="margin:10px 10px 0px 0px">
 A challenge for utilizing biomass for renewable fuels and chemicals is achieving co-utilization of the 
@@ -38,7 +38,7 @@ of an economical continuous process. We aim to investigate the molecular basis o
 xylose transport into cells through multi-scale atomistic modeling. We will apply this understanding to 
 rationally design improved protein transporters that advance biotechnology and future protein design.
 
-# Size-based sorting of Exosomes, Led by [Emma Purcell](team#epurcell)
+# Size-based sorting of Exosomes, Led by [Emma Purcell](../team#epurcell)
 
 Exosomes are lipid bilayer membrane vesicles that are known to enhance tumor metastasis by stimulating both 
 tumor growth and tumor cell migration. It is crucial to be able to sort exosomes out of blood to further 
@@ -48,7 +48,7 @@ size-based exclusion method for the separation of exosomes using inertial microf
 the further study of exosome biology.
 
 
-# Conformational cartography: mapping and comparing ring conformational landscapes, Led by [Stephen Vicchio](team#svicchio) with assistance from [Sam Schwartz](team#sschwartz)
+# Conformational cartography: mapping and comparing ring conformational landscapes, Led by [Stephen Vicchio](../team#svicchio) with assistance from [Sam Schwartz](../team#sschwartz)
 
 <img align="left" src="../assets/img/conf_landscape.jpg" style="margin:10px 10px 0px 0px">
 Researchers utilizing Quantum Mechanic/Molecular Mechanic (QM/MM) simulations are able to provide fundamental insight 
@@ -58,7 +58,7 @@ fundamental knowledge about the mechanism that is experimentally elusive. Howeve
 limiting factor in the amount of conformational sampling that is feasible. We are investigating the role of the 
 computational method used in the the results found through simulations of key phenomena.  
 
-# What if? Computational investigations of enzyme mutants to learn from nature's design strategies, Led by [Tucker Burgin](team#tburgin)
+# What if? Computational investigations of enzyme mutants to learn from nature's design strategies, Led by [Tucker Burgin](../team#tburgin)
 
 The group works towards understanding the processive mechanism of a mutant glycoside hydrolase enzyme through molecular 
 dynamics simulations and related computational techniques, in collaboration with structural biologists. Future work 
