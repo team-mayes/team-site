@@ -26,7 +26,7 @@ the AIChE Computational Molecular Science and Engineering Forum Graduate Student
 Award and ACS Chemical Computing Group Research Excellence Award. She deferred begining her position at the 
 University of Michigan to be a postdoctoral scholar in the Voth Group at the University of Chicago, where she 
 modeled proton transport in transmembrane proteins. At the University of Michigan, 
-she workrs to elucidate protein-sugar interactions for applications in renewable energy and glycobiology.
+she works to elucidate protein-sugar interactions for applications in renewable energy and glycobiology.
 
 # Graduate Students
 
