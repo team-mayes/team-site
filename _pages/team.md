@@ -88,6 +88,8 @@ Samantha is a rising undergraduate Senior at the University of Michigan, majorin
 She is originally from Fairfield, Connecticut and is currently performing QM simulations of monosaccharide 
 reactions, determining how to best model the conformational changes during the reactions. 
 
+<br>
+
 ## <a name="jhuber"></a> Justin Huber
 
 <img align="left" src="../assets/img/jhuber.jpg" style="margin:10px 10px 0px 0px">
