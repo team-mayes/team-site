@@ -18,7 +18,7 @@ layout: default
 
 ## 2017 June
 
-The team welcomes Rohith Pentaparthy, a rising undergraduate senior studying data science and biochemistry!
+The team welcomes [Rohith Pentaparthy](../team#rpenta), a rising undergraduate senior studying data science and biochemistry!
 
 ## 2017 May
 

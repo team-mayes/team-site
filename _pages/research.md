@@ -28,7 +28,7 @@ advance renewable chemicals and fuels as well as health.
 
 Currently, these interests fuel the following projects:
 
-# Computational Tools for Protein Design, Led by [Alex Adams](../team#xadams) with assistance from Rohith Pentaparthy
+# Computational Tools for Protein Design, Led by [Alex Adams](../team#xadams) with assistance from [Rohith Pentaparthy](../team#rpenta)
 
 <img align="left" src="../assets/img/xyle.jpg" style="margin:10px 10px 0px 0px">
 A challenge for utilizing biomass for renewable fuels and chemicals is achieving co-utilization of the 

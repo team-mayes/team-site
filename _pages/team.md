@@ -98,3 +98,10 @@ Chemical Engineering and a minor in Computer Science. In 2016, he participated i
 undergraduate research program in Aachen, Germany exploring various optimization methods in
 modelling an extraction column for pre-screening solvents for use in biofuels. Currently, Justin is
 working to model conformational pathways in ring-opening reactions of sugars important for health and renewable energy.
+
+
+## <a name="rpenta"></a> Rohith Pentaparthy
+
+Rohith is currently a rising Senior undergraduate student at the University of Michigan, majoring in Data Science and 
+minoring in Biochemistry. He is originally from Okemos, Michigan and is working on modeling modifications of sugar 
+transport proteins in an effort to improve conversion efficiency.
