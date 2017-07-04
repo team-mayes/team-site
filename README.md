@@ -11,6 +11,10 @@ $ cd team-site
 $ jekyll serve
 ```
 
+To edit: 
+
+Edit the text in the "_pages" folder. Images go in the assets/img folder.
+
 To publish:
 
 ```

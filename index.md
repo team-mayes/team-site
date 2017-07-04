@@ -16,6 +16,19 @@ layout: default
   
 # News
 
+## 2017 June
+
+The team welcomes Rohith Pentaparthy, a rising undergraduate senior studying data science and biochemistry!
+
+## 2017 May
+
+Congratulations to [Alex Adams](team#xadams), [Tucker Burgin](team#tburgin), and [Emma Purcell](team#epurcell), who 
+all passed their Doctoral Candidacy Exams!
+
+## 2017 March
+
+The team welcomes [Justin Huber](team#jhuber)!
+
 ## 2017 January
 
 The team welcomes [Sam Schwartz](team#sschwartz)!

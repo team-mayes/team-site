@@ -79,20 +79,20 @@ on the development and design of microfluidic chips for artificial lipid bilayer
 Emma is co-advised by [Dr. Sunitha Nagrath](http://cheresearch.engin.umich.edu/nagrath/index.html).
 
 
-# Undergraduate Student
+# Undergraduate Students
 
 ## <a name="sschwartz"></a> Samantha Schwartz
 
 <img align="left" src="../assets/img/sschwartz.jpg" style="margin:10px 10px 0px 0px">
-Samantha is currently an undergraduate Junior, majoring in Chemical Engineering and minoring in Computer science. 
-She is originally from Fairfield, Connecticut and is currently working on modeling ring opening 
-reactions of specific sugars conformations.
+Samantha is a rising undergraduate Senior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. 
+She is originally from Fairfield, Connecticut and is currently performing QM simulations of monosaccharide 
+reactions, determining how to best model the conformational changes during the reactions. 
 
 ## <a name="jhuber"></a> Justin Huber
 
 <img align="left" src="../assets/img/jhuber.jpg" style="margin:10px 10px 0px 0px">
-Justin Huber is a junior here at the University of Michigan. He is currently pursuing a Bachelor's in
-Chemical Engineering and a minor in Computer Science. Last summer, he participated in an
+Justin Huber is a rising senior at the University of Michigan. He is currently pursuing a Bachelor's in
+Chemical Engineering and a minor in Computer Science. In 2016, he participated in an
 undergraduate research program in Aachen, Germany exploring various optimization methods in
 modelling an extraction column for pre-screening solvents for use in biofuels. Currently, Justin is
 working to model conformational pathways in ring-opening reactions of sugars important for health and renewable energy.
