@@ -12,7 +12,7 @@ Publications are listed below and through [Heather's google scholar page](https:
 
 0. Lee, S.; Mayes, H. B.; Swanson, J. M. J.; Voth, G. A. ["The Origin of Coupled Chloride 
    and Proton Transport in a Cl–/H+ Antiporter."](http://pubs.acs.org/doi/abs/10.1021/jacs.6b06683)
-   *J. Am. Chem. Soc.*, _2016_, ASAP
+   *J. Am. Chem. Soc.*, _2016_, *138*, 14923–14930
 0. Mayes, H. B.; Knott, B. C.; Broadbelt, L. J.; Crowley, M.F.; St&#229;hlberg, J.; 
    Beckham, G. T. ["Who’s On Base? Revealing the catalytic mechanism of inverting Family 6 
    glycoside hydrolases"](http://pubs.rsc.org/en/Content/ArticleLanding/2016/SC/c6sc00571c#!divAbstract)
