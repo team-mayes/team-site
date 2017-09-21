@@ -3,10 +3,13 @@ layout: default
 ---
 
 <div class="page-content">
-  Welcome to the website for Team Mayes and Blue! We are a new group in 
+
+<img align="center" src="assets/img/team.jpg" style="margin:10px 10px 0px 0px">
+
+
+  Welcome to the website for Team Mayes and Blue! We are a computational group in 
   the [Chemical Engineering Department](http://www.engin.umich.edu/che) 
-  at the [University of Michigan](https://www.umich.edu) (Go Blue!), 
-  officially opening in January 2017. We focus on discovering 
+  at the [University of Michigan](https://www.umich.edu) (Go Blue!). We focus on discovering 
   fundamental structure-function relationships that govern how proteins 
   and sugars interact in application from renewable materials to human 
   health.
@@ -16,9 +19,14 @@ layout: default
   
 # News
 
+## 2017 September
+
+The team welcomes Carly Prast, a ChemE senior!
+
+
 ## 2017 June
 
-The team welcomes [Rohith Pentaparthy](../team#rpenta), a rising undergraduate senior studying data science and biochemistry!
+The team welcomes [Rohith Pentaparthy](team#rpenta), a rising undergraduate senior studying data science and biochemistry!
 
 ## 2017 May
 

@@ -100,8 +100,10 @@ modelling an extraction column for pre-screening solvents for use in biofuels. C
 working to model conformational pathways in ring-opening reactions of sugars important for health and renewable energy.
 
 
+# Previous Undergraduate Students
+
 ## <a name="rpenta"></a> Rohith Pentaparthy
 
-Rohith is currently a rising Senior undergraduate student at the University of Michigan, majoring in Data Science and 
-minoring in Biochemistry. He is originally from Okemos, Michigan and is working on modeling modifications of sugar 
+Rohith worked in our group in the summer of 2017, when he was a rising Senior undergraduate student at the University of Michigan, majoring in Data Science and 
+minoring in Biochemistry. He is originally from Okemos, Michigan and worked on modeling modifications of sugar 
 transport proteins in an effort to improve conversion efficiency.
