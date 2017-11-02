@@ -78,6 +78,13 @@ After finishing her BS, she traveled to New Zealand and worked at the University
 on the development and design of microfluidic chips for artificial lipid bilayer formation. 
 Emma is co-advised by [Dr. Sunitha Nagrath](http://cheresearch.engin.umich.edu/nagrath/index.html).
 
+## <a name="ywoo"></a> Youngwoo Woo
+
+<img align="left" src="../assets/img/youngwoo.jpg" style="margin:10px 10px 0px 0px">
+Youngwoo earned his BS in Materials Science and Engineering from Seoul National University before joining
+the Department of Materials Science and Engineering at the University of Michigan. He joined the Mayes group to pursue his 
+interest in in data science within chemical engineering, and is exploring how glycosylation affects protein physical properties.
+
 
 # Undergraduate Students
 
@@ -99,6 +106,16 @@ undergraduate research program in Aachen, Germany exploring various optimization
 modelling an extraction column for pre-screening solvents for use in biofuels. Currently, Justin is
 working to model conformational pathways in ring-opening reactions of sugars important for health and renewable energy.
 
+## <a name="cprast"></a> Carly Prast
+
+<img align="left" src="../assets/img/cprast.jpg" style="margin:10px 10px 0px 0px">
+Carly Prast is a senior at the University of Michigan studying Chemical Engineering. 
+She is originally from Rochester, Michigan. Currently, Carly is using COMSOL Multiphysics 
+to simulate microfluidic focusing of exosomes for cancer diagnostics. 
+
+<br>
+
+<br>
 
 # Previous Undergraduate Students
 

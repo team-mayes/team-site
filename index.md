@@ -19,9 +19,18 @@ layout: default
   
 # News
 
+## 2017 November
+
+[Watch a video](https://www.youtube.com/watch?v=ZPG3gNTnca0) featuring our research initiatives, and the wonderful Ann Arbor Nichols Arboretum! 
+
+
+## 2017 October
+
+Congratulations to [Tucker Burgin](team#tburgin) on earning an outstanding poster award at the [Midwest Enzyme Chemistry Conference](http://www.midwestenzyme.org/)!
+
 ## 2017 September
 
-The team welcomes Carly Prast, a ChemE senior!
+The team welcomes [Carly Prast](team#cprast), a ChemE senior!
 
 
 ## 2017 June
