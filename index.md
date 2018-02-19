@@ -19,14 +19,29 @@ layout: default
   
 # News
 
+## 2018 February
+
+Prof. Mayes will present the group's research as part of the [MICDE seminar series](http://micde.umich.edu/event/micde-seminar-heather-mayes-chemical-engineering-university-of-michigan/)
+
+## 2018 January
+
+Congratulations to [Youngwoo Woo](team#ywoo) on admission to the ChemE PhD program!
+
+Congratulations to [Tucker Burgin](team#tburgin) on the acceptance of his [first manuscript with Team Mayes 
+\& Blue](http://www.jbc.org/content/early/2018/01/10/jbc.RA117.001186)!
+
 ## 2017 November
 
 [Watch a video](https://www.youtube.com/watch?v=ZPG3gNTnca0) featuring our research initiatives, and the wonderful Ann Arbor Nichols Arboretum! 
+
+The team welcomes [Youngwoo Woo](team#ywoo), a material science master's student!
 
 
 ## 2017 October
 
 Congratulations to [Tucker Burgin](team#tburgin) on earning an outstanding poster award at the [Midwest Enzyme Chemistry Conference](http://www.midwestenzyme.org/)!
+
+The team welcomes [Jason Fannin](team#jfannin), a ChemE sophomore!
 
 ## 2017 September
 
@@ -53,7 +68,7 @@ The team welcomes [Sam Schwartz](team#sschwartz)!
 
 ## 2016 October
 
-The team welcomes three new members, [Alex Adams](team#xadams), [Tucker Burgin](team#tburgin), and [Emma Purcell](team#epurcell)!
+The team welcomes three new members, [Tucker Burgin](team#tburgin), [Alex Adams](team#xadams), and [Emma Purcell](team#epurcell)!
 
 ## 2016 August
 

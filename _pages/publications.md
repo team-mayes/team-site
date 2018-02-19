@@ -10,6 +10,12 @@ Publications are listed below and through [Heather's google scholar page](https:
 
 ## Peer-Reviewed
 
+
+0. Burgin, T.;  St&#229;hlberg, J.; Mayes, H. B. ["Advantages of a Distant Cellulase Catalytic 
+   Base."](http://www.jbc.org/content/early/2018/01/10/jbc.RA117.001186) *J. Biol. Chem.*, _2018_, in press.
+0. Mayes, H. B.; Lee, S.; White, A. D.; Voth, G. A.; Swanson, J. M. J. ["Multiscale Kinetic Modeling Reveals Ensemble of 
+   Cl–/H+ Exchange Pathways in ClC-ec1 Antiporter."](http://pubs.acs.org/doi/10.1021/jacs.7b11463) *J. Am. Chem. Soc.* 
+   _2018_, *140* (5), 1793–1804.
 0. Lee, S.; Mayes, H. B.; Swanson, J. M. J.; Voth, G. A. ["The Origin of Coupled Chloride 
    and Proton Transport in a Cl–/H+ Antiporter."](http://pubs.acs.org/doi/abs/10.1021/jacs.6b06683)
    *J. Am. Chem. Soc.*, _2016_, *138*, 14923–14930

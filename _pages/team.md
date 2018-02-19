@@ -24,29 +24,20 @@ toward advancing technologies that will produce sustainable chemicals and fuels.
 She was a Department of Energy Computational Science Graduate Fellow and earned 
 the AIChE Computational Molecular Science and Engineering Forum Graduate Student 
 Award and ACS Chemical Computing Group Research Excellence Award. She deferred begining her position at the 
-University of Michigan to be a postdoctoral scholar in the Voth Group at the University of Chicago, where she 
-modeled proton transport in transmembrane proteins. At the University of Michigan, 
-she works to elucidate protein-sugar interactions for applications in renewable energy and glycobiology.
+University of Michigan for a short (1.4 years) postdoctoral scholar position at the University of Chicago, where she developed a multiscale kinetic modeling approach to capture the stochastic nature of coupled ion transport in a transmembrane antiporter. At the University of Michigan, 
+she works to elucidate protein-carbohydrate interactions for applications in renewable energy and glycobiology.
 
 # Graduate Students
 
-## <a name="svicchio"></a> Stephen Vicchio
+## <a name="tburgin"></a> Tucker Burgin
 
-<img align="left" src="../assets/img/vicchio.png" style="margin:10px 10px 0px 0px">
-Stephen earned his BS in Chemical Engineering from the University of 
-Maryland, Baltimore County (UMBC) in Spring 2015, and joined the PhD 
-program in Chemical Engineering at the University of Michigan in Fall 2015.
-His undergraduate research experiences include: improving anode materials for Lithium-Ion batteries 
-(during a [FREEDM Systems Center](https://www.freedm.ncsu.edu) REU at NC State University); 
-performing longevity studies for Zinc-Calcium-Magnesium bulk metallic glasses degradable implants 
-(part of a [Leadership Alliance SURF at Yale University](http://gsas.yale.edu/diversity/programs/summer-undergraduate-research-fellowship-surf)); 
-and simulating Janus particles patterned with varying hydrophobicity at a water vapor-liquid 
-interface (part of a [LSAMP REU at Rensselaer Polytechnic Institute](http://gradoffice.rpi.edu/update.do?catcenterkey=34)). As a member 
-of Team Mayes and Blue, Stephen’s research focuses on creating a glycan
-designer library elucidating trends on how specific glycosylation 
-motifs impact protein function. The new, fundamental knowledge 
-developed by Stephen’s work will better enable researchers to use glycosylation
-as a tool to customize protein function.
+<img align="left" src="../assets/img/tburgin.png" style="margin:10px 10px 0px 0px">
+Tucker earned his BS and MS in Biomedical Engineering (with a concentration in Chemical Engineering) through a combined degree 
+program at the [University of Rochester](https://enrollment.rochester.edu/professional/gear/). He conducted research with the 
+[Nanomembranes Research Group](http://nanomembranes.org/) and the [McGrath Lab](https://www.urmc.rochester.edu/labs/McGrath-Lab/), 
+and his MS thesis work centered on building models to support the application of ultra-thin silicon membranes to highly efficient, 
+wearable hemodialysis devices.
+
 
 ## <a name="xadams"></a> Alexander Adams
 
@@ -57,15 +48,6 @@ automation for nylon. He also participated in the [Scientific Undergraduate Labo
 program at [Oak Ridge National Lab](https://www.ornl.gov/) where he worked on high performance Li-ion battery anodes 
 produced from recycled rubber tire waste. Alex is co-advised by [Dr. Sharon Glotzer](http://glotzerlab.engin.umich.edu/home/).
 
-
-## <a name="tburgin"></a> Tucker Burgin
-
-<img align="left" src="../assets/img/tburgin.png" style="margin:10px 10px 0px 0px">
-Tucker earned his BS and MS in Biomedical Engineering (with a concentration in Chemical Engineering) through a combined degree 
-program at the [University of Rochester](https://enrollment.rochester.edu/professional/gear/). He conducted research with the 
-[Nanomembranes Research Group](http://nanomembranes.org/) and the [McGrath Lab](https://www.urmc.rochester.edu/labs/McGrath-Lab/), 
-and his MS thesis work centered on building models to support the application of ultra-thin silicon membranes to highly efficient, 
-wearable hemodialysis devices.
 
 ## <a name="epurcell"></a> Emma Purcell
 
@@ -78,24 +60,16 @@ After finishing her BS, she traveled to New Zealand and worked at the University
 on the development and design of microfluidic chips for artificial lipid bilayer formation. 
 Emma is co-advised by [Dr. Sunitha Nagrath](http://cheresearch.engin.umich.edu/nagrath/index.html).
 
+
 ## <a name="ywoo"></a> Youngwoo Woo
 
 <img align="left" src="../assets/img/youngwoo.jpg" style="margin:10px 10px 0px 0px">
 Youngwoo earned his BS in Materials Science and Engineering from Seoul National University before joining
-the Department of Materials Science and Engineering at the University of Michigan. He joined the Mayes group to pursue his 
+the Department of Materials Science and Engineering at the University of Michigan to pursue a Master's degree. He joined the Mayes group to pursue his 
 interest in in data science within chemical engineering, and is exploring how glycosylation affects protein physical properties.
 
 
 # Undergraduate Students
-
-## <a name="sschwartz"></a> Samantha Schwartz
-
-<img align="left" src="../assets/img/sschwartz.jpg" style="margin:10px 10px 0px 0px">
-Samantha is a rising undergraduate Senior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. 
-She is originally from Fairfield, Connecticut and is currently performing QM simulations of monosaccharide 
-reactions, determining how to best model the conformational changes during the reactions. 
-
-<br>
 
 ## <a name="jhuber"></a> Justin Huber
 
@@ -113,14 +87,32 @@ Carly Prast is a senior at the University of Michigan studying Chemical Engineer
 She is originally from Rochester, Michigan. Currently, Carly is using COMSOL Multiphysics 
 to simulate microfluidic focusing of exosomes for cancer diagnostics. 
 
+## <a name="cprast"></a> Jason Fannin
+
+<img align="left" src="../assets/img/wolverine.jpg" style="margin:10px 10px 0px 0px">
+Jason joined Team Mayes \& Blue shortly after transfering to the University of Michigan from Washtenaw Community College. He is working with Alex Adams on modeling sugar transport into cells. 
+
+
 <br>
 
 <br>
 
 # Previous Undergraduate Students
 
+## <a name="sschwartz"></a> Samantha Schwartz
+
+Sam was the first undergraduate to join Team Mayes \& Blue, as a second-semester junior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. She performed QM simulations of monosaccharide reactions, determining how to best model the conformational changes during the reactions. 
+
+<br>
+
 ## <a name="rpenta"></a> Rohith Pentaparthy
 
 Rohith worked in our group in the summer of 2017, when he was a rising Senior undergraduate student at the University of Michigan, majoring in Data Science and 
 minoring in Biochemistry. He is originally from Okemos, Michigan and worked on modeling modifications of sugar 
 transport proteins in an effort to improve conversion efficiency.
+
+# Previous Master's Students
+
+## <a name="svicchio"></a> Stephen Vicchio
+
+Stephen was the first member of Team Mayes \& Blue, joining before Prof. Mayes started at Michigan. During his time in the group he worked on determining how different computational methods differently map carbohydrate potential energy surfaces.
