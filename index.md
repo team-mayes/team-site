@@ -28,7 +28,7 @@ Prof. Mayes will present the group's research as part of the [MICDE seminar seri
 Congratulations to [Youngwoo Woo](team#ywoo) on admission to the ChemE PhD program!
 
 Congratulations to [Tucker Burgin](team#tburgin) on the acceptance of his [first manuscript with Team Mayes 
-\& Blue](http://www.jbc.org/content/early/2018/01/10/jbc.RA117.001186)!
+&amp; Blue](http://www.jbc.org/content/early/2018/01/10/jbc.RA117.001186)!
 
 ## 2017 November
 

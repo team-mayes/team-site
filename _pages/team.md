@@ -24,7 +24,7 @@ toward advancing technologies that will produce sustainable chemicals and fuels.
 She was a Department of Energy Computational Science Graduate Fellow and earned 
 the AIChE Computational Molecular Science and Engineering Forum Graduate Student 
 Award and ACS Chemical Computing Group Research Excellence Award. She deferred begining her position at the 
-University of Michigan for a short (1.4 years) postdoctoral scholar position at the University of Chicago, where she developed a multiscale kinetic modeling approach to capture the stochastic nature of coupled ion transport in a transmembrane antiporter. At the University of Michigan, 
+University of Michigan for a short postdoctoral scholar position at the University of Chicago, where she developed a multiscale kinetic modeling approach to capture the stochastic nature of coupled ion transport in a transmembrane antiporter. At the University of Michigan, 
 she works to elucidate protein-carbohydrate interactions for applications in renewable energy and glycobiology.
 
 # Graduate Students
@@ -87,23 +87,27 @@ Carly Prast is a senior at the University of Michigan studying Chemical Engineer
 She is originally from Rochester, Michigan. Currently, Carly is using COMSOL Multiphysics 
 to simulate microfluidic focusing of exosomes for cancer diagnostics. 
 
+<br>
+
+<br>
+
 ## <a name="cprast"></a> Jason Fannin
 
 <img align="left" src="../assets/img/wolverine.jpg" style="margin:10px 10px 0px 0px">
-Jason joined Team Mayes \& Blue shortly after transfering to the University of Michigan from Washtenaw Community College. He is working with Alex Adams on modeling sugar transport into cells. 
+Jason joined Team Mayes &amp; Blue shortly after transfering to the University of Michigan from Washtenaw Community College. He is working with Alex Adams on modeling sugar transport into cells. 
 
 
 <br>
+
+<br>
+
+## <a name="sschwartz"></a> Samantha Schwartz
+
+Sam was the first undergraduate to join Team Mayes &amp; Blue, as a second-semester junior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. She performed QM simulations of monosaccharide reactions, determining how to best model the conformational changes during the reactions. 
 
 <br>
 
 # Previous Undergraduate Students
-
-## <a name="sschwartz"></a> Samantha Schwartz
-
-Sam was the first undergraduate to join Team Mayes \& Blue, as a second-semester junior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. She performed QM simulations of monosaccharide reactions, determining how to best model the conformational changes during the reactions. 
-
-<br>
 
 ## <a name="rpenta"></a> Rohith Pentaparthy
 
@@ -115,4 +119,4 @@ transport proteins in an effort to improve conversion efficiency.
 
 ## <a name="svicchio"></a> Stephen Vicchio
 
-Stephen was the first member of Team Mayes \& Blue, joining before Prof. Mayes started at Michigan. During his time in the group he worked on determining how different computational methods differently map carbohydrate potential energy surfaces.
+Stephen was the first member of Team Mayes &amp; Blue, joining before Prof. Mayes started at Michigan. During his time in the group he worked on determining how different computational methods differently map carbohydrate potential energy surfaces.

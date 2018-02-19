@@ -48,8 +48,8 @@ size-based exclusion method for the separation of exosomes using inertial microf
 the further study of exosome biology.
 
 
-# Conformational cartography: mapping and comparing ring conformational landscapes, Led by [Stephen Vicchio](../team#svicchio) 
-with assistance from [Sam Schwartz](../team#sschwartz) and [Justin Huber](../team#jhuber)
+# Conformational cartography: mapping and comparing ring conformational landscapes, Led by [Justin Huber](../team#jhuber)
+with assistance from [Sam Schwartz](../team#sschwartz) and [Stephen Vicchio](../team#svicchio) 
 
 <img align="left" src="../assets/img/conf_landscape.jpg" style="margin:10px 10px 0px 0px">
 Researchers utilizing Quantum Mechanic/Molecular Mechanic (QM/MM) simulations are able to provide fundamental insight 
