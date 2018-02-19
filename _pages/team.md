@@ -91,7 +91,7 @@ to simulate microfluidic focusing of exosomes for cancer diagnostics.
 
 <br>
 
-## <a name="cprast"></a> Jason Fannin
+## <a name="jfannin"></a> Jason Fannin
 
 <img align="left" src="../assets/img/wolverine.jpg" style="margin:10px 10px 0px 0px">
 Jason joined Team Mayes &amp; Blue shortly after transfering to the University of Michigan from Washtenaw Community College. He is working with Alex Adams on modeling sugar transport into cells. 
@@ -103,9 +103,18 @@ Jason joined Team Mayes &amp; Blue shortly after transfering to the University o
 
 ## <a name="sschwartz"></a> Samantha Schwartz
 
-Sam was the first undergraduate to join Team Mayes &amp; Blue, as a second-semester junior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. She performed QM simulations of monosaccharide reactions, determining how to best model the conformational changes during the reactions. 
+<img align="left" src="../assets/img/sschwartz.jpg" style="margin:10px 10px 0px 0px">
+Samantha is a rising undergraduate Senior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. 
+She is originally from Fairfield, Connecticut and is currently performing QM simulations of monosaccharide 
+reactions, determining how to best model the conformational changes during the reactions. 
 
 <br>
+
+<!--## <a name="sschwartz"></a> Samantha Schwartz
+
+Sam was the first undergraduate to join Team Mayes &amp; Blue, as a second-semester junior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. She performed QM simulations of monosaccharide reactions, determining how to best model the conformational changes during the reactions. 
+
+<br>-->
 
 # Previous Undergraduate Students
 
