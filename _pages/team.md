@@ -53,7 +53,7 @@ produced from recycled rubber tire waste. Alex is co-advised by [Dr. Sharon Glot
 
 <img align="left" src="../assets/img/epurcell.png" style="margin:10px 10px 0px 0px">
 Emma earned her BS in Chemical Engineering from the [University of California San Diego](http://nanoengineering.ucsd.edu).  
-She completed an REU through the Colorado Centre for Biofuels and Biorefining in [Matthew Posewitz’s lab](Matthew Posewitz) at the 
+She completed an REU through the Colorado Centre for Biofuels and Biorefining in [Matthew Posewitz’s lab](http://algae.mines.edu/) at the 
 Colorado School of Mines.  While in the Posewitz lab, she worked on the metabolic engineering of cyanobacteria for biofuels applications.  
 After finishing her BS, she traveled to New Zealand and worked at the University of Canterbury in 
 [Renwick Dobson’s lab](http://www.bic.canterbury.ac.nz/people/investigator/dobson.shtml) 
@@ -110,7 +110,7 @@ reactions, determining how to best model the conformational changes during the r
 
 <br>
 
-<!--## <a name="sschwartz"></a> Samantha Schwartz
+<!-- ## <a name="sschwartz"></a> Samantha Schwartz
 
 Sam was the first undergraduate to join Team Mayes &amp; Blue, as a second-semester junior at the University of Michigan, majoring in Chemical Engineering and minoring in Computer science. She performed QM simulations of monosaccharide reactions, determining how to best model the conformational changes during the reactions. 
 
