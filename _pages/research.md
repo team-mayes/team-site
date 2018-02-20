@@ -28,6 +28,10 @@ advance renewable chemicals and fuels as well as health.
 
 Currently, these interests fuel the following projects:
 
+# What if? Computational investigations of enzyme mutants to learn from nature's design strategies, Led by [Tucker Burgin](../team#tburgin)
+
+In collaboration with structural biologists, we seek to use simulations to rationalize and harness the 'design' strategies used by nature to synthesize, digest, and modify polysaccharides across all kingdoms of life. The ultimate research goal is to elucidate the molecular foundations underlying the behavioral changes imparted to enzymes by mutations in a generalizable way, to aid rational enzyme design towards renewable biofuels, novel medical research tools and biologics, and more.
+
 # Computational Tools for Protein Design, Led by [Alex Adams](../team#xadams) with assistance from [Rohith Pentaparthy](../team#rpenta)
 
 <img align="left" src="../assets/img/xyle.jpg" style="margin:10px 10px 0px 0px">
@@ -59,10 +63,3 @@ fundamental knowledge about the mechanism that is experimentally elusive. Howeve
 limiting factor in the amount of conformational sampling that is feasible. We are investigating the role of the 
 computational method used in the the results found through simulations of key phenomena.  
 
-# What if? Computational investigations of enzyme mutants to learn from nature's design strategies, Led by [Tucker Burgin](../team#tburgin)
-
-The group works towards understanding the processive mechanism of a mutant glycoside hydrolase enzyme through molecular 
-dynamics simulations and related computational techniques, in collaboration with structural biologists. Future work 
-will continue to uncover the mechanisms of other mutant enzymes that catalyze entirely different reactions from 
-their wild-type counterparts. The ultimate research goal is to elucidate the molecular foundations underlying the 
-behavioral changes imparted to enzymes by mutations in a generalizable way, to aid rational enzyme design.
