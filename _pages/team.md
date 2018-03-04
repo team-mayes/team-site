@@ -51,7 +51,7 @@ produced from recycled rubber tire waste. Alex is co-advised by [Dr. Sharon Glot
 
 ## <a name="epurcell"></a> Emma Purcell
 
-<img align="left" src="../assets/img/epurcell.png" style="margin:10px 10px 0px 0px">
+<img align="left" src="../assets/img/epurcell.jpg" style="margin:10px 10px 0px 0px">
 Emma earned her BS in Chemical Engineering from the [University of California San Diego](http://nanoengineering.ucsd.edu).  
 She completed an REU through the Colorado Centre for Biofuels and Biorefining in [Matthew Posewitz’s lab](http://algae.mines.edu/) at the 
 Colorado School of Mines.  While in the Posewitz lab, she worked on the metabolic engineering of cyanobacteria for biofuels applications.  
